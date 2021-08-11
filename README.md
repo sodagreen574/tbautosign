@@ -2,7 +2,7 @@
 github actions 贴吧自动签到 nodejs 版
 1
 ## 用法
-2312321
+231232142323
 ## 1.fork 项目
 
 ## 2.获取 BDUSS
